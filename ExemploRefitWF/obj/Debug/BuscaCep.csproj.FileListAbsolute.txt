@@ -1,0 +1,16 @@
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\bin\Debug\ExemploRefitWF.exe.config
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\bin\Debug\ExemploRefitWF.exe
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\bin\Debug\ExemploRefitWF.pdb
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\bin\Debug\Refit.dll
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\bin\Debug\Newtonsoft.Json.pdb
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\bin\Debug\Refit.xml
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\obj\Debug\BuscaCep.csproj.AssemblyReference.cache
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\obj\Debug\BuscaCep.Frm_BuscaCep.resources
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\obj\Debug\ExemploRefitWF.Properties.Resources.resources
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\obj\Debug\BuscaCep.csproj.GenerateResource.cache
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\obj\Debug\BuscaCep.csproj.CoreCompileInputs.cache
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\obj\Debug\BuscaCep.csproj.CopyComplete
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\obj\Debug\ExemploRefitWF.exe
+D:\Projetos Trabalho\BuscaCep\ExemploRefitWF\obj\Debug\ExemploRefitWF.pdb

@@ -1,0 +1,16 @@
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\bin\Debug\ExemploRefitWF.exe.config
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\bin\Debug\ExemploRefitWF.exe
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\bin\Debug\ExemploRefitWF.pdb
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\bin\Debug\Refit.dll
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\bin\Debug\Refit.xml
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\obj\Debug\ExemploRefitWF.csproj.AssemblyReference.cache
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\obj\Debug\ExemploRefitWF.Properties.Resources.resources
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\obj\Debug\ExemploRefitWF.csproj.GenerateResource.cache
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\obj\Debug\ExemploRefitWF.csproj.CoreCompileInputs.cache
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\obj\Debug\ExemploRefitWF.csproj.CopyComplete
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\obj\Debug\ExemploRefitWF.exe
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\obj\Debug\ExemploRefitWF.pdb
+C:\Users\AlexandreJS\source\repos\ExemploRefitWF\ExemploRefitWF\obj\Debug\ExemploRefitWF.Frm_BuscaCep.resources
